@@ -1,0 +1,12 @@
+.mui-appbar {
+  background-color: #651fff;
+  color: white;
+  font-weight: 500;
+  padding: 8px 0;
+}
+
+.mui--appbar-height {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 13px;
+}
