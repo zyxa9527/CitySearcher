@@ -1,6 +1,6 @@
 This project is a React-based web application that allows users to select "年", "縣/市", and "區" to generate charts based on data retrieved from an API.
 
-Features
+##Features
 Users can select the "年", "縣/市", and "區" options to generate charts.
 The submit button is disabled until all fields are selected.
 Autocomplete selectors are used for the "縣/市" and "區" options to help users quickly find the desired option.
@@ -13,7 +13,7 @@ The application is responsive and uses RWD to ensure a consistent experience acr
 Usage
 To use this application, simply navigate to the deployed website or run the application locally by following these steps:
 
-Clone the repository
+##Clone the repository
 Install the necessary dependencies by running npm install in the project directory
 Start the development server by running npm start
 Navigate to localhost:3000 in your web browser
