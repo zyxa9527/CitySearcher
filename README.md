@@ -10,7 +10,7 @@ This project is a React-based web application that allows users to select "年",
 - While waiting for the API response, a UI prompt indicating that the page is loading is displayed.
 - Charts are generated using the echart library.
 - The application is responsive and uses RWD to ensure a consistent experience across different devices.
-- 
+
 ## Usage
 To use this application, simply navigate to the deployed website or run the application locally by following these steps:
 
